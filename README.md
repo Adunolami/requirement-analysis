@@ -36,3 +36,22 @@ A thorough Requirement Analysis helps identify potential issues and misunderstan
 
 - Establishes a Clear Project Scope:
 Clearly defined requirements help establish the scope of the project, outlining what will be included and what will not. This clarity prevents scope creep—where additional features are added without proper evaluation—and ensures that all stakeholders have a mutual understanding of project objectives. A well-defined scope facilitates better planning, resource allocation, and timeline management throughout the SDLC 
+
+
+- Key Activities in Requirement Analysis
+Requirement Analysis involves several key activities that ensure a comprehensive understanding of the software needs. Here are the five main activities involved in this process:
+
+- Requirement Gathering:
+This initial step involves collecting information from various stakeholders, including users, clients, and project sponsors. Techniques such as interviews, surveys, and workshops are commonly used to gather insights about their needs and expectations. The goal is to compile a list of requirements that reflect what the stakeholders want from the software.
+
+- Requirement Elicitation:
+Elicitation is the process of drawing out requirements through interaction with stakeholders. This activity goes beyond mere gathering; it involves engaging stakeholders in discussions to uncover hidden needs and preferences. Techniques like brainstorming sessions, focus groups, and use case scenarios are often employed to facilitate this process, ensuring that all relevant requirements are identified.
+
+- Requirement Documentation:
+Once requirements are gathered and elicited, they must be documented in a clear and structured format. This documentation serves as a reference for all stakeholders throughout the SDLC. Common formats include requirement specifications, user stories, and use case diagrams. Proper documentation ensures that requirements are easily understandable and accessible for future phases of development.
+
+- Requirement Analysis and Modeling:
+In this activity, the documented requirements are analyzed to identify inconsistencies, ambiguities, or conflicts. This analysis may involve prioritizing requirements based on factors such as feasibility, importance, and risk. Additionally, modeling techniques (e.g., flowcharts, use case diagrams) may be used to visually represent how different components of the system will interact, providing a clearer understanding of the overall system architecture.
+
+- Requirement Validation:
+The final activity involves verifying that the documented requirements accurately reflect stakeholder needs and are feasible within the project's constraints. Validation can be achieved through reviews, walkthroughs, or prototyping. Engaging stakeholders in this process helps ensure that all parties agree on the requirements before moving forward, reducing the likelihood of misunderstandings during development.
