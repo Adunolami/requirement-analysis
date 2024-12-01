@@ -55,3 +55,48 @@ In this activity, the documented requirements are analyzed to identify inconsist
 
 - Requirement Validation:
 The final activity involves verifying that the documented requirements accurately reflect stakeholder needs and are feasible within the project's constraints. Validation can be achieved through reviews, walkthroughs, or prototyping. Engaging stakeholders in this process helps ensure that all parties agree on the requirements before moving forward, reducing the likelihood of misunderstandings during development.
+
+
+- Use Case Diagrams
+Use Case Diagrams are a graphical modeling tool used in the Unified Modeling Language (UML) to represent the interactions between users (actors) and the system. They play a crucial role in requirement analysis by illustrating the functional requirements of a system and helping stakeholders understand how the system will behave in various scenarios.
+
+
+- Acceptance Criteria
+Acceptance Criteria (AC) are a set of predefined conditions that a software product or feature must meet to be accepted by users, customers, or stakeholders. They play a crucial role in requirement analysis by providing clear and testable requirements that guide the development process. Well-defined acceptance criteria help ensure that the final product aligns with user expectations and reduces ambiguity during development.
+- Importance of Acceptance Criteria in - Requirement Analysis
+- Clarity and Understanding: Acceptance criteria provide a clear understanding of what is expected from a feature or product. This clarity helps all stakeholders, including developers, testers, and clients, to have a unified vision of the desired outcomes.
+
+- Testability: Each acceptance criterion is designed to be verifiable, allowing teams to determine whether the requirements have been met. This testability is essential for quality assurance and helps prevent misunderstandings about what constitutes a "done" feature.
+
+- Facilitates Communication: By documenting acceptance criteria, teams can improve communication among stakeholders. This documentation serves as a reference point throughout the development process, ensuring everyone is on the same page regarding project goals.
+
+- Risk Mitigation: Clearly defined acceptance criteria help identify potential issues early in the development cycle. This proactive approach reduces the likelihood of costly changes later in the project.
+Example of Acceptance Criteria for the - - - Checkout Feature
+For the booking management system, consider the following acceptance criteria for the Checkout Feature:
+
+- User Authentication:
+
+- The user must be logged in to proceed with checkout.
+If not logged in, the system should prompt the user to log in or create an account.
+- Payment Options:
+The system must provide at least three payment options (e.g., credit card, PayPal, bank transfer).
+The user should be able to select their preferred payment method during checkout.
+- Order Summary:
+The checkout page must display an order summary that includes:
+Selected services
+
+
+- Total cost (including taxes and fees)
+Cancellation policy
+The user must have the option to edit their order before finalizing payment.
+Confirmation Email:
+Upon successful payment, the system must send a confirmation email to the user - - containing:
+- Booking details
+- Payment receipt
+- Contact information for customer support
+
+
+- Error Handling:
+
+If payment fails, the system should display an error message and allow the user to retry.
+The system must log all failed payment attempts for auditing purposes.
